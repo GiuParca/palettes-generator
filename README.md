@@ -1,7 +1,9 @@
 ﻿# Color Palette Generator
 
-Creating your own color palette is just a click away. 
+Creating your own color palette is just a click away.
 
-Color Palette Generator is an app made with HTML, CSS, and JavaScript, where you can generate a unique, random color palette with a single click.
+Color Palette Generator is made with HTML, CSS, and JavaScript, allowing you to generate a unique, random color palette with a single click.
 
-You can click a button for a fresh burst of colors or select each color individually at random to create your own palette.
+This project uses JavaScript DOM manipulation to dynamically add new elements to the HTML.
+
+You can click a button to get a new burst of colors or select each individual color at random to create your own palette.
