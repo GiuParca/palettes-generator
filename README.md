@@ -1,7 +1,7 @@
 ﻿# Color Palette Generator
 
-Creating your own color palette is just a click away. Welcome to "Color Crafter," an innovative app made with HTML, CSS, and JavaScript.
+Creating your own color palette is just a click away. 
 
-With Color Crafter, you can generate a unique, random color palette with a single click. Not satisfied? Click again for a fresh burst of colors. Prefer more control? Select each color individually at random to craft a palette that's uniquely yours.
+Color Palette Generator is an app made with HTML, CSS, and JavaScript, where you can generate a unique, random color palette with a single click.
 
-Perfect for designers, artists, or anyone who loves color, Color Crafter transforms how you choose and combine hues. Dive into endless possibilities and let your creativity soar with Color Crafter.
+You can click a button for a fresh burst of colors or select each color individually at random to create your own palette.
