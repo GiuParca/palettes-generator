@@ -12,5 +12,4 @@
 
 <h2>What I&#39;ve learned:</h2>
 <p>Throughout this project, I explored some methods to modify the DOM and handle events in JavaScript. This included working with JavaScript Math objects, DOM manipulation, and managing click events.</p>
-<p>This project uses JavaScript DOM manipulation to dynamically add new elements to the HTML.</p>
 
