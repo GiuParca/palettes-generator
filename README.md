@@ -1,6 +1,7 @@
 <h1>Color Palette Generator</h1>
 
-<p>Purpose of this project: improve knowledge in DOM manipulation and click event handling.</p>
+<p><strong>Purpose of this project:</strong><br>
+to improve knowledge in DOM manipulation and click event handling.</p>
 
 <h2>Main Features</h2>
 
