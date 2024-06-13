@@ -3,7 +3,7 @@
 <p><strong>Purpose of this project:</strong><br>
 to improve knowledge in DOM manipulation and click event handling.</p>
 
-<h2>Main Features</h2>
+<h2>Main Features:</h2>
 
 <ul>
 <li>Minimal and Quick</li>
