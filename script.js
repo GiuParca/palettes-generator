@@ -23,11 +23,22 @@ function getHexRef() {
         let character = hexCharacters[index];
         hexRef += character;
     }
+
     return hexRef;
 }
 
-buttonRandom.addEventListener('click', (event) =>{
+buttonRandom.addEventListener('click', (event) => {
     event.preventDefault();
     buttons.forEach(button => button.click());
 })
+
+
+
+function copyHexRef() {
+    document.querySelectorAll('.btn-copy').addEventListener('click', copyHexRef);
+
+
+    document.querySelectorAll(`${getHexRef()}`).select();
+    document.execCommand('copy');
+}
 
